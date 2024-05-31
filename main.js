@@ -20,6 +20,3 @@ function hideMe(){
         })
     })
 }
-
-window.onload = hideMe;
-window.onload = clkP;
